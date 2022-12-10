@@ -1,1 +1,1 @@
-# GuessingGame
+Classic guessing game in Rust
